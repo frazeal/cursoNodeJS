@@ -1,0 +1,28 @@
+{
+  "name": "prj_casa_do_codigo",
+  "version": "1.0.0",
+  "description": "Website da Casa do Código",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frazeal/cursoNodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "JS"
+  ],
+  "author": "frazeal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frazeal/cursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/frazeal/cursoNodeJS#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
